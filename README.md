@@ -1,5 +1,9 @@
 # Tasks Flutter App
 
+### Flutter Tasks App Using Getx StateManagement.
+### Dynamic Theme Change - Local Push Notification.
+### Sqlite & Sqflite CRUD With Local Scheduled Notifications.
+
 #### Packages:
 - get_storage
 - get
